@@ -1,8 +1,8 @@
 ### Hey there! 🙃
 ### Olá! Me chamo Rebeka, sejam bem vindos(a)! 🤍
-:house_with_garden: Sou brasileira.
+:house_with_garden: Brasileira.
 
-:books: Estudante de análise e desenvolvimento de sistemas, atualmente, estou estudando análise de dados. 
+:books: Estudante de análise e desenvolvimento de sistemas, atualmente, estudando análise de dados. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeka-dias-864608205/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diasrebeka17@gmail.com)
