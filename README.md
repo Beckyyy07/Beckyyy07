@@ -1,5 +1,5 @@
 ### Hey there! 🙃
-### Olá! Me chamo Rebeka, sejam bem vindos(a)! 🤍
+### Olá! Me chamo Rebeka, sejam bem vindos! 🤍
 :house_with_garden: Brasileira.
 
 :books: Estudante de análise e desenvolvimento de sistemas, atualmente, estudando engenharia de dados. 
